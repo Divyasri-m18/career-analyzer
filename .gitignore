@@ -1,0 +1,15 @@
+# node
+node_modules/
+.env
+
+# prisma
+*.db
+prisma/migrations/
+
+# build
+dist/
+build/
+
+# logs
+npm-debug.log*
+yarn-debug.log*
