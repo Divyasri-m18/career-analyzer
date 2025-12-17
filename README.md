@@ -2,7 +2,7 @@ AI Career & Skill Analyzer
 
 A full-stack web application that analyzes resumes to identify technical skills, career domains, and personalized project recommendations using rule-based intelligence and structured analysis.
 
-🌐 Live Demo: (add deployed link)
+🌐 Live Demo: https://career-analyzer.vercel.app
 📦 Repository: Career Analyzer
 
 Overview
